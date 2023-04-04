@@ -1,0 +1,28 @@
+.u-bg-folk-blue {
+    background-color: blue;
+}
+.u-bg-folk-red {
+    background-color: red;
+}
+.u-bg-folk-green {
+    background-color: green;
+}
+
+.button-primary {
+    display: inline-block;
+    padding: 10px 10px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    margin: 10px 0px;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.button-primary:hover {
+    background-color: grey;
+    color: blueviolet;
+    transition-duration: .7s;
+    font-weight: 900;
+    border-radius: 90px;
+}
